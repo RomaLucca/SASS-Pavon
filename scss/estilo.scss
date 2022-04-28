@@ -1,0 +1,19 @@
+$colorrgb: salmon;
+$widthH1: 400px;
+
+body{
+
+    background-color: $colorrgb;
+}
+
+h1{ 
+    color: $colorrgb;
+    text-align: center;
+background-color: white;
+padding: 15px;
+}
+
+p{
+    width: $widthH1;
+}
+    
